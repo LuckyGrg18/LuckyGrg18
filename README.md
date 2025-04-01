@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="left">"Hello Everyone"</h1>
+<h1 align="left">"Hello Everyone!"</h1>
 
 ###
 
@@ -36,7 +36,7 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://fb.com/lucky grg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lucky grg" height="30" width="40" /></a>
+<a href="https://fb.com/Lucky Grg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Lucky Grg" height="30" width="40" /></a>
 <a href="https://instagram.com/luckygrg244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luckygrg244" height="30" width="40" /></a>
 </p>
 
