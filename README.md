@@ -4,7 +4,10 @@
 
 ###
 
-<p align="left">My name is Lucky Gurung, I am a Computer Science student at Informatics College Pokhara, and always curious and eager to learn. Exploring new ideas, tackling challenges, and making the most of the college journey. Ready to innovate, create, and grow.</p>
+<p align="left">My name is Lucky Gurung, I am a Computer Science student at Informatics College, Pokhara. I love exploring new ideas and technologies.
+  In my free time, I enjoy gamindg, playing sports and coding, and always curious and eager to learn more.
+  I have experience with java, python and web development.
+  Joining the Developers' Community excites me because I want to learn new skill, and grow with like-minded peoples, and ready to innovate, create, and grow.</p>
 
 ###
 
